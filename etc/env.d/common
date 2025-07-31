@@ -1,0 +1,6 @@
+# Common config
+# vim: set filetype=sh:
+
+export STARTA_AUTHOR_NAME="Chris Mulder"
+export STARTA_AUTHOR_MAIL="cmulder@bitbuild.io"
+export STARTA_DEFAULT_SPDX_LICENCE=Apache-2.0

@@ -1,6 +1,6 @@
-# Start a...
+# Start a ...
 
-Start a... is a collection of templates for bootstrapping various development
+Start a ... is a collection of templates for bootstrapping various development
 projects.
 
 ## TODO
